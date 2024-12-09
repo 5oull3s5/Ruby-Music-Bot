@@ -2,7 +2,7 @@ require('dotenv').config();
 
 
 module.exports = {
-    token: 'MTMxNTU5MTI0MjQ2OTYwOTUwMw.GJvX2d.-lZVeg_mkBobQFBeT0V6x3lc7O0uLsJixq1UHs',
+    token: '',
     clientId: '1273230302822797312',
     guildId: '1106591466651922502',
     youtubeApiKey: process.env.YOUTUBE_API_KEY,
